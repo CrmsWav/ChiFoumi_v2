@@ -1,0 +1,14 @@
+.resultats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.resultats img {
+    width: 50%;
+    height: auto;
+}
+
+#gagnerPerdu {
+    margin: 2em 0;
+}

@@ -1,0 +1,20 @@
+.joueurVsBot {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.joueur {
+    width: 20%;
+    height: auto;
+}
+
+.vs {
+    width: 15%;
+    height: auto;
+}
+
+.adversaire {
+    width: 20%;
+    height: auto;
+}

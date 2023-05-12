@@ -1,0 +1,10 @@
+.boutons {
+    display: flex;
+    justify-content: space-around;
+    margin: 2em 0;
+}
+
+.boutons img {
+    width: 20%;
+    height: auto;
+}
