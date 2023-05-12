@@ -100,7 +100,7 @@ function App() {
       </main>
 
       <footer>
-          <p>2021 © Réalisé par <a href="portfolio-de-marcus.vercel.app">Step</a></p>
+          <p>2021 © Réalisé par <a href="https://portfolio-de-marcus.vercel.app/">Step</a></p>
 
           <p>Graphismes <a href="https://www.instagram.com/ae_fkh/">@ae_fkh</a></p>
       </footer>
